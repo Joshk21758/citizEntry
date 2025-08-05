@@ -1,2 +1,2 @@
 # citizEntry
-Project structure is on Master branch...
+A citizen portal web application with Next js. Project files are on the Master branch. 
